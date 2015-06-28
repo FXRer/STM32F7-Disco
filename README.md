@@ -1,2 +1,2 @@
 # STM32F7DISCOVERY
-Training materials for STMF7 Discovery
+Training materials & demo projects based on STMF7 Discovery
